@@ -39,7 +39,7 @@ Ensure you have the following installed:
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/YourUsername/WizVid-Video_Downloader.git
+git clone https://github.com/khrizve/WizVid-Video_Downloader.git
 cd WizVid-Video_Downloader
 pip install -r requirements.txt
 ```
