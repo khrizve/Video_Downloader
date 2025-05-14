@@ -2,7 +2,7 @@
 
 WizVid is a powerful and visually enchanting video downloader designed with a dark fantasy-themed GUI. It leverages the capabilities of `yt-dlp` and `ffmpeg` to download and convert videos from a variety of platforms including YouTube. Whether you're saving lectures, songs, or full HD videos, WizVid makes the process feel like magic.
 
-![WizVid Banner](#)
+![WizVid Banner](WizVid_src/asset/wizvid-banner.jpg)
 
 ---
 
@@ -76,8 +76,8 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 ## 🌐 Connect
 
 * 🧠 Author: Rizve
-* 🕊️ Twitter: [@Rizv21](#)
-* 💼 Portfolio: [rizve.netlify.app](#)
+* 🕊️ Twitter: [Rizve21](https://x.com/rizve21)
+* 💼 Portfolio: [Rizve reza](https://rizve.netlify.app/)
 
 ---
 
