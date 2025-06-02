@@ -77,7 +77,7 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 * 🧠 Author: Rizve
 * 🕊️ Twitter: [Rizve21](https://x.com/rizve21)
-* 💼 Portfolio: [Rizve reza](https://rizve.netlify.app/)
+* 💼 Portfolio: [Rizve Reza](https://rizve.netlify.app/)
 
 ---
 
