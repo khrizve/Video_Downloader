@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fantasy_background"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What is MagicPix"
+            android:textSize="24sp"
+            android:textColor="@color/fantasy_primary"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MagicPix is a image encrytion system. It transforms images into unique audio signatures and back again, creating a magical bridge between visual and auditory experiences."
+            android:textSize="18sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- How to Use Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="How to Use MagicPix"
+            android:textSize="24sp"
+            android:textColor="@color/fantasy_primary"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Step 1 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Select an Image"
+            android:textSize="18sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Click the 'Select Image' button to choose an image from your gallery."
+            android:textSize="16sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Step 2 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Convert Image to Audio"
+            android:textSize="18sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Click the 'Convert to Audio' button to convert the selected image into an audio file."
+            android:textSize="16sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Step 3 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Regenerate Image from Audio"
+            android:textSize="18sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Click the 'Regenerate Image' button to select an audio file and regenerate the original image."
+            android:textSize="16sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Step 4 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Save Files"
+            android:textSize="18sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Use the 'Save Audio' and 'Save Image' buttons to save the generated files to your device."
+            android:textSize="16sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="32dp" />
+
+        <!-- About Section -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/fantasy_primary"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About Developer"
+            android:textSize="24sp"
+            android:textColor="@color/fantasy_primary"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <ImageView
+            android:id="@+id/developerImage"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/dev_img"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Developer image" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rizve Reza"
+            android:textSize="18sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Android Developer"
+            android:textSize="18sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contact: rizve18bd@gmail.com"
+            android:textSize="18sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="32dp" />
+
+        <!-- Attribution Section -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/fantasy_primary"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Image Attribution"
+            android:textSize="24sp"
+            android:textColor="@color/fantasy_primary"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="All images used in this app are properly attributed:"
+            android:textSize="16sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• App icon - flaticon.com"
+            android:textSize="16sp"
+            android:textColor="@color/fantasy_text"
+            android:layout_marginBottom="4dp" />
+
+        <!-- Footer -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/fantasy_primary"
+            android:layout_marginBottom="16dp"/>
+    </LinearLayout>
+</ScrollView>
+
