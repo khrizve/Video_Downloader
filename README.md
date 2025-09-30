@@ -40,7 +40,7 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/khrizve/Video_Downloader.git
-cd WizVid-Video_Downloader
+cd WizVid_src
 pip install -r requirements.txt
 ```
 
