@@ -76,7 +76,7 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 ## 🌐 Connect
 
 * 🧠 Author: Rizve
-* 🕊️ Twitter: [Rizve Reza](https://x.com/rizve_19)
+* 🕊️ Twitter: [Rizve](https://x.com/rizve_19)
 * 💼 Portfolio: [Code_Sor](https://rizve.netlify.app/)
 
 ---
